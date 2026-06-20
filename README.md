@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Portfolio
 My portfolio website, featuring my best work. Everything about me as a programmer, right here.
 =======
@@ -32,4 +31,3 @@ Feel free to reach out for collaboration or employment opportunities:
 - Email: ssarfroz@gmail.com
 - GitHub: [smsarfroz](https://github.com/smsarfroz)
 - LinkedIn: [Sarfroz Sheikh](https://linkedin.com/in/Sarfroz-Sheikh)
->>>>>>> 73fcbe1 (portfolio site)
