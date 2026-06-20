@@ -1,4 +1,4 @@
-# Sarfroz Sheikh - Web Developer Portfolio
+# Sarfroz Sheikh - Full Stack Developer Portfolio
 
 ## Overview
  My portfolio website, featuring my best work. Everything about me as a programmer, right here.  Built with React and Tailwind CSS.
